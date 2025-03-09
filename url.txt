@@ -1,1 +1,1 @@
-https://sntaez-bike-sharing.streamlit.app/
+https://bike-sharing-sez.streamlit.app/
