@@ -5,7 +5,7 @@ import seaborn as sns
 
 # Load dataset
 # Memuat data dari file CSV
-file_path = "../dashboard/main_data.csv"
+file_path = "dashboard/main_data.csv"
 df = pd.read_csv(file_path)
 
 st.title("Dashboard Penyewaan Sepeda")
